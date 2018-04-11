@@ -1,9 +1,6 @@
 # Design Concepts
 ## Goals
 ### Can Host an Identity
-
- - [ ] List item
-
 The reference agent should be fully functional. Meaning it could be used to host my identity in production (in my basement). But it may be slow or not able to scale.
 - 1 Identity, 1 wallet
 
@@ -22,5 +19,5 @@ The ref agent should provide a test suite that tests other agent's compliance to
 ## Trade-Offs
 ### Simplicity and Exendabilty over Scalability and Performance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTk1NjUxOF19
+eyJoaXN0b3J5IjpbLTgxMTY0ODM2Ml19
 -->
