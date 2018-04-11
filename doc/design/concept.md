@@ -18,3 +18,6 @@ The ref agent should provide a test suite that tests other agent's compliance to
 
 ## Trade-Offs
 ### Simplicity and Exendabilty over Scalability and Performance
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgxMTY0ODM2Ml19
+-->
