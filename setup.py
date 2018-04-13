@@ -12,5 +12,7 @@ setup(
     author='Devin Fisher',
     author_email='devin.fisher@evernym.com',
     packages=find_packages(exclude=('tests', 'docs')),
-    include_package_data=True
+    include_package_data=True,
+    python_requires='>3.5',
+    install_requires=['python3-indy']
 )
